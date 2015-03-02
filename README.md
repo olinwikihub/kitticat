@@ -1,2 +1,2 @@
 # kitticat
-Play with cats!
+Play with cats! Cats are awesome!
